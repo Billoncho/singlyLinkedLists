@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657069466 source:c:\users\cacha\documents\codex\c\singlylinkedlists\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
